@@ -1,0 +1,2 @@
+# ProjectTestowyGITRepo
+Projekt do testów
